@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kisan Network</string>
+    <string name="otp_caption">Hi, your OTP is: </string>
+    <string name="no_internet">No Internet Connection </string>
+    <string name="something_went_wrong">Something went wrong </string>
+    <string name="error_db_insert">Error in Inserting in Database</string>
+    <string name="success_db_insert">Inserted in Db successfully</string>
+</resources>
